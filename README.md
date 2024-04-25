@@ -43,5 +43,30 @@ while True:
 ![1a CN](https://github.com/ARCHANAT1305/2a_Stop_and_Wait_Protocol/assets/145975189/50e2b37f-0337-4a6f-8a34-a1ea7b3e64e9)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
